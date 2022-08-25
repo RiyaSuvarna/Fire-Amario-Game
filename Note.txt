@@ -1,0 +1,8 @@
+Hello Everyone....
+Please do the needful before you run the project
+Run it in Visual Studio Code
+Install Respective libraries imported in the file
+1)pygame
+2)sys ,etc.
+Install the libraries in command prompt 
+Thank You........
